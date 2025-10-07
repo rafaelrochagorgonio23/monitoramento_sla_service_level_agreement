@@ -80,4 +80,5 @@ if not df_nao_cumpridos.empty:
             f"Julho: {row['Julho (%)']}%, Faltou: {row['Diferença (%)']:.2f}%, "
             f"Meta Agosto: {row['Meta (%)']}%, "
             f"Acumulado Agosto (simulado): {row['Acumulado Agosto (%)']:.2f}%"
+
         )
